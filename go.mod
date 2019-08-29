@@ -31,7 +31,7 @@ require (
 	github.com/gorilla/mux v1.7.3 // indirect
 	github.com/gorilla/websocket v1.4.1 // indirect
 	github.com/gostaticanalysis/analysisutil v0.0.3 // indirect
-	github.com/grpc-ecosystem/grpc-gateway v1.9.6 // indirect
+	github.com/grpc-ecosystem/grpc-gateway v1.10.0 // indirect
 	github.com/hashicorp/golang-lru v0.5.3 // indirect
 	github.com/hpe-storage/common-host-libs v0.0.0-20190821160716-b46821a0b5d1
 	github.com/hpe-storage/k8s-custom-resources v0.0.0-20190725185337-965fa924678a
@@ -73,7 +73,7 @@ require (
 	github.com/valyala/quicktemplate v1.2.0 // indirect
 	go.etcd.io/bbolt v1.3.3 // indirect
 	golang.org/x/crypto v0.0.0-20190820162420-60c769a6c586 // indirect
-	golang.org/x/image v0.0.0-20190823064033-3a9bac650e44 // indirect
+	golang.org/x/image v0.0.0-20190828090100-23ea20f87cfc // indirect
 	golang.org/x/mobile v0.0.0-20190826170111-cafc553e1ac5 // indirect
 	golang.org/x/net v0.0.0-20190827160401-ba9fcec4b297
 	golang.org/x/sys v0.0.0-20190826190057-c7b8b68b1456 // indirect
